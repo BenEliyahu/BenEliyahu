@@ -1,7 +1,13 @@
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/108268890/206184420-4268199e-2e8a-4a13-ae11-08bd8d08ef2a.gif)
 
-Hey there! I'm Ben Eliyahu
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/108268890/206184839-7c8fdcd2-b6bf-44c4-a555-fa7f2d308ed2.gif)
+<div align='center'>
+
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  width="480" height="360" frameBorder="0" class="giphy-embed" >
+</div>
+
+<h1 align="center">
+  Hey there! I'm Ben Eliyahu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 
@@ -14,15 +20,17 @@ Hey there! I'm Ben Eliyahu
 
 • 📫 How to reach me: beneliyahu15@gmail.com 
 
-## 🛠️ Languages and Tools :
-
-https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg
-https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg
-https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg
-https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg
-https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg
-https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg
-https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg
-https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="50" height="50"/>
+  
+  
 
 
