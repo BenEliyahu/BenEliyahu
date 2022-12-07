@@ -5,10 +5,13 @@ Hey there! I'm Ben Eliyahu https://camo.githubusercontent.com/e8e7b06ecf583bc040
 # About me
 
 • 🎒 I'm a Full-Stack Bootcamp Graduate.
+
 • 🌱 I’m currently practicing building web applications.
+
 • 📫 How to reach me: beneliyahu15@gmail.com 
 
 ## 🛠️ Languages and Tools :
+
 https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg
 https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg
 https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg
